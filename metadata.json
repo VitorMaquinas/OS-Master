@@ -1,0 +1,5 @@
+{
+  "name": "OS Master Pro",
+  "description": "A comprehensive Service Order (Ordem de Serviço) management system with secure authentication, client database, and Gemini-powered service insights.",
+  "requestFramePermissions": []
+}
