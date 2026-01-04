@@ -16,7 +16,7 @@ const Layout: React.FC<LayoutProps> = ({ children, user, onLogout, activeTab, se
       {/* Sidebar - Oculta na impressão */}
       <aside className="w-64 bg-slate-900 text-white flex flex-col hidden md:flex print:hidden">
         <div className="p-6">
-          <h1 className="text-2xl font-bold tracking-tight">OS Master <span className="text-blue-400">Pro</span></h1>
+          <h1 className="text-2xl font-bold tracking-tight">OS Master <span className="text-white">Pro</span></h1>
         </div>
         
         <nav className="flex-1 px-4 space-y-2">
